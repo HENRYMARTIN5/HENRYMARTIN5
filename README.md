@@ -28,6 +28,8 @@ No Activity tracked this Week
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HENRYMARTIN5&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=HENRYMARTIN5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
