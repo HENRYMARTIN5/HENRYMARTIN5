@@ -45,20 +45,19 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/HENRYMARTIN54"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a>
 <br><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/HENRYMARTIN5"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" height="30"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/HENRYMARTIN5"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" height="30" /></a>
 
------
 
-Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
 
-<details><summary>About this game section</summary>
+<details><summary>Game Stats</summary>
   
-  The section is developed based on my previopus GameBoy emulator project [Gameboy.Live](https://github.com/HFO4/gameboy.live), you can use this project to deploy your own "cloud gaming server".
-</details>
+  -----
 
-<details><summary>Statistics of this game so far</summary>
   <img src="https://playground.aoaoao.me/Api/GBStatistic" />
+  
+  -----
+  
 </details>
 
------
+
 
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/HENRYMARTIN5/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/HENRYMARTIN5/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/HENRYMARTIN5/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 
