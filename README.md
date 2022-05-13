@@ -17,10 +17,10 @@ I'm a young computer enthusiast interested in the full stack.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 3 mins    ████████████████▒░░░░░░░░   65.76 %
-HTML         1 hr 58 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
-CSS          37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+JavaScript   5 hrs 9 mins    ███████████████▒░░░░░░░░░   61.94 %
+HTML         2 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   30.25 %
+CSS          37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
