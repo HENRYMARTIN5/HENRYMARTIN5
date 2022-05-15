@@ -7,6 +7,7 @@
 I'm a young computer enthusiast interested in the full stack.
 
 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 
