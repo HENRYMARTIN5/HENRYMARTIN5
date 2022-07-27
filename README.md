@@ -18,9 +18,9 @@ I'm a young computer enthusiast interested in the full stack.
 <!--START_SECTION:waka-->
 
 ```text
-C#       3 hrs 2 mins    ██████████████▒░░░░░░░░░░   56.81 %
-Python   2 hrs 15 mins   ██████████▓░░░░░░░░░░░░░░   42.35 %
-Other    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Python   2 hrs 15 mins   ███████████████████▒░░░░░   77.34 %
+C#       37 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
+Other    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
