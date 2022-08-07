@@ -18,8 +18,8 @@ I'm a young computer enthusiast interested in the full stack.
 <!--START_SECTION:waka-->
 
 ```text
-TOML   25 mins         ████████████████████▒░░░░   81.57 %
-JSON   5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
+TOML   46 mins         ██████████████████████▒░░   88.84 %
+JSON   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
 ```
 
 <!--END_SECTION:waka-->
