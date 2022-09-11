@@ -18,9 +18,9 @@ I'm a young computer enthusiast interested in the full stack.
 <!--START_SECTION:waka-->
 
 ```text
-HTML         1 hr 27 mins    ███████████████░░░░░░░░░░   60.07 %
-CSS          46 mins         ████████░░░░░░░░░░░░░░░░░   32.31 %
-JavaScript   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+HTML         1 hr 20 mins    ███████████████░░░░░░░░░░   59.85 %
+CSS          44 mins         ████████▒░░░░░░░░░░░░░░░░   33.47 %
+JavaScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
 ```
 
 <!--END_SECTION:waka-->
