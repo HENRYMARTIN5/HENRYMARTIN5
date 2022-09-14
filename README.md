@@ -18,7 +18,10 @@ I'm a young computer enthusiast interested in the full stack.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   38 mins         ██████████████████▒░░░░░░   73.48 %
+HTML         10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
+Markdown     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
