@@ -18,11 +18,12 @@ I'm a young computer enthusiast interested in the full stack.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 50 mins   █████████████████░░░░░░░░   67.66 %
-HTML         52 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
-C#           44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-CSS          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JavaScript   4 hrs 21 mins   ██████████████░░░░░░░░░░░   56.43 %
+HTML         1 hr 13 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
+Python       53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+C#           44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+CSS          28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
