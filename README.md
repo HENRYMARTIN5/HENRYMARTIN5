@@ -18,12 +18,12 @@ I'm a young computer enthusiast interested in the full stack.
 <!--START_SECTION:waka-->
 
 ```text
-Python       6 hrs 12 mins   ██████████████████▓░░░░░░   75.28 %
-JSON         55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
-HTML         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Markdown     24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Python       5 hrs 40 mins   ██████████████████░░░░░░░   72.51 %
+JSON         58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+HTML         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Markdown     24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
