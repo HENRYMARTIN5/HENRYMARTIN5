@@ -18,7 +18,9 @@ I'm a young computer enthusiast interested in the full stack.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+INI    2 mins          ████████████████████▒░░░░   80.99 %
+Text   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+HTML   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
 ```
 
 <!--END_SECTION:waka-->
