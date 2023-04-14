@@ -18,7 +18,11 @@ I'm a young computer enthusiast interested in the full stack.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Rust         22 mins         ███████████▒░░░░░░░░░░░░░   44.69 %
+Markdown     10 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
+Bash         8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
+TOML         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+Other        3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
 ```
 
 <!--END_SECTION:waka-->
