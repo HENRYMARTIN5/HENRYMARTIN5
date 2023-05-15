@@ -18,11 +18,11 @@ I'm a young computer enthusiast interested in the full stack.
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   32.97 %
-JavaScript   1 hr 52 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
-C            1 hr 20 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
-Bash         53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
-Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Python       5 hrs 40 mins   ██████████████████░░░░░░░   71.35 %
+Bash         56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+JavaScript   40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Text         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+C            17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
 ```
 
 <!--END_SECTION:waka-->
