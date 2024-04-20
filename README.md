@@ -18,10 +18,10 @@ I'm a young computer enthusiast interested in the full stack.
 <!--START_SECTION:waka-->
 
 ```txt
-newLISP       1 hr 2 mins     ████████████████▒░░░░░░░░   64.69 %
-Python        28 mins         ███████▒░░░░░░░░░░░░░░░░░   29.71 %
-Markdown      5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-Common Lisp   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+newLISP       2 hrs 15 mins   █████████████████░░░░░░░░   68.27 %
+Python        41 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.68 %
+Markdown      21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+Common Lisp   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
