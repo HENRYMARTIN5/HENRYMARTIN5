@@ -9,11 +9,6 @@ I'm a young computer enthusiast interested in the full stack.
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-
-
-
-</br>
-
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
