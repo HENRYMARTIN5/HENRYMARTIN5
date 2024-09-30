@@ -35,28 +35,6 @@ JavaScript   6 mins          ▓░░░░░░░░░░░░░░░░
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HENRYMARTIN5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🎮 Let's play Pokémon together!
-<img src="https://toy.aoaoao.me/image" width="300"/> 
-
-<img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/> <a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/HENRYMARTIN5"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/HENRYMARTIN5"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/HENRYMARTIN5"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/HENRYMARTIN5"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30"/></a> <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/HENRYMARTIN5"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/HENRYMARTIN5"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a>
-<br><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/HENRYMARTIN5"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" height="30"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/HENRYMARTIN5"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" height="30" /></a>
-
-
-
-<details><summary>Game Stats</summary>
-  
-  -----
-
-  <img src="https://playground.aoaoao.me/Api/GBStatistic" />
-  
-  -----
-  
-</details>
-
-
-
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/HENRYMARTIN5/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/HENRYMARTIN5/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/HENRYMARTIN5/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 
 
