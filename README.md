@@ -25,8 +25,8 @@ JavaScript   6 mins          ▓░░░░░░░░░░░░░░░░
 ☑️ **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  5,763 Karma Points           
-🌸  Completed 3 tasks today           
-✅  Completed 236 tasks so far           
+🌸  Completed 5 tasks today           
+✅  Completed 238 tasks so far           
 ⏳  Longest streak is 6 days
 <!-- TODO-IST:END -->
 
