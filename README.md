@@ -25,8 +25,8 @@ C#           1 min           ░░░░░░░░░░░░░░░░░
 ☑️ **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  7,905 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 355 tasks so far           
+🌸  Completed 5 tasks today           
+✅  Completed 358 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
