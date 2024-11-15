@@ -25,7 +25,7 @@ GLSL          0 secs          ░░░░░░░░░░░░░░░░�
 ☑️ **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  8,219 Karma Points           
-🌸  Completed 7 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 388 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
