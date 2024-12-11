@@ -24,9 +24,9 @@ JSON     0 secs          ░░░░░░░░░░░░░░░░░░�
 
 ☑️ **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  9,168 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 506 tasks so far           
+🏆  9,191 Karma Points           
+🌸  Completed 3 tasks today           
+✅  Completed 508 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
