@@ -25,7 +25,7 @@ BibTeX       28 mins         ▓░░░░░░░░░░░░░░░░
 ☑️ **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  9,534 Karma Points           
-🌸  Completed 1 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 552 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
