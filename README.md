@@ -25,8 +25,8 @@ Batchfile     7 mins          ▒░░░░░░░░░░░░░░░�
 ☑️ **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  10,124 Karma Points           
-🌸  Completed 3 tasks today           
-✅  Completed 657 tasks so far           
+🌸  Completed 5 tasks today           
+✅  Completed 659 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
