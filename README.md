@@ -24,9 +24,9 @@ CSS           34 mins         █▒░░░░░░░░░░░░░░�
 
 ☑️ **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  10,705 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 794 tasks so far           
+🏆  10,713 Karma Points           
+🌸  Completed 7 tasks today           
+✅  Completed 801 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
