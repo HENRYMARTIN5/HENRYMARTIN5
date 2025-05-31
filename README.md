@@ -25,7 +25,7 @@ VBScript     21 mins         ▓░░░░░░░░░░░░░░░░
 ☑️ **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  11,205 Karma Points           
-🌸  Completed 1 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 884 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
