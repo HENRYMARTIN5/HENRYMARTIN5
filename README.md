@@ -25,8 +25,8 @@ Haxe             10 mins         ▒░░░░░░░░░░░░░░�
 ☑️ **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  11,295 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 906 tasks so far           
+🌸  Completed 3 tasks today           
+✅  Completed 908 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
