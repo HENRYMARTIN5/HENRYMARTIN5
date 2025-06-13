@@ -24,9 +24,9 @@ HXML         7 mins          ▒░░░░░░░░░░░░░░░░
 
 ☑️ **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  11,475 Karma Points           
-🌸  Completed 5 tasks today           
-✅  Completed 934 tasks so far           
+🏆  11,483 Karma Points           
+🌸  Completed 7 tasks today           
+✅  Completed 936 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
