@@ -13,11 +13,11 @@ I'm a young computer enthusiast interested in the full stack.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         10 hrs 6 mins   ███████████████▒░░░░░░░░░   60.99 %
-Python       3 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.98 %
-C            1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-TOML         57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Other        23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Rust         10 hrs 6 mins   ███████████░░░░░░░░░░░░░░   43.81 %
+Python       6 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
+C            4 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   20.38 %
+TOML         57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Other        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
