@@ -25,8 +25,8 @@ IDA                                51 mins         ▓░░░░░░░░�
 ☑️ **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  11,543 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 949 tasks so far           
+🌸  Completed 4 tasks today           
+✅  Completed 952 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
