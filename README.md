@@ -13,7 +13,11 @@ I'm a young computer enthusiast interested in the full stack.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML         3 hrs 9 mins    █████████████████▓░░░░░░░   70.09 %
+C            36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+JavaScript   23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+CMake        17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+Makefile     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
