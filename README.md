@@ -13,11 +13,11 @@ I'm a young computer enthusiast interested in the full stack.
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         4 hrs 55 mins   ██████████▒░░░░░░░░░░░░░░   41.76 %
-C            2 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   19.57 %
-Markdown     1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-Bash         1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-CMake        58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+YAML                5 hrs 15 mins   █████████▒░░░░░░░░░░░░░░░   37.97 %
+C                   2 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
+Markdown            1 hr 34 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+Bash                1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+CMake               58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
 ```
 
 <!--END_SECTION:waka-->
