@@ -25,8 +25,8 @@ CMake               58 mins         █▓░░░░░░░░░░░░�
 ☑️ **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  11,861 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 1,013 tasks so far           
+🌸  Completed 2 tasks today           
+✅  Completed 1,016 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
