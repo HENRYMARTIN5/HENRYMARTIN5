@@ -13,9 +13,7 @@ I'm a young computer enthusiast interested in the full stack.
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         0 secs          ███████████████████░░░░░░   75.67 %
-JavaScript   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
-CSS          0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
