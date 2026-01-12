@@ -13,11 +13,11 @@ I'm a young computer enthusiast interested in the full stack.
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                               32 mins         ██████████▒░░░░░░░░░░░░░░   41.71 %
-C                                  18 mins         ██████░░░░░░░░░░░░░░░░░░░   24.01 %
-C#                                 18 mins         ██████░░░░░░░░░░░░░░░░░░░   23.65 %
-Microsoft Visual Studio Solution   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-XML                                2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Python                             34 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.03 %
+Bash                               32 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.76 %
+C                                  25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
+YAML                               21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
+C#                                 18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
 ```
 
 <!--END_SECTION:waka-->
