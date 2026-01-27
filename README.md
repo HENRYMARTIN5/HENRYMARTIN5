@@ -23,9 +23,9 @@ Kotlin       8 mins          ▒░░░░░░░░░░░░░░░░
 
 ☑️ **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  12,574 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 1,164 tasks so far           
+🏆  12,585 Karma Points           
+🌸  Completed 3 tasks today           
+✅  Completed 1,167 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
