@@ -12,11 +12,11 @@ I'm a young computer enthusiast interested in the full stack.
 <!--START_SECTION:waka-->
 
 ```txt
-OpenSCAD      33 mins               ██████████████▓░░░░░░░░░░   58.88 %
-Other         11 mins               █████░░░░░░░░░░░░░░░░░░░░   19.69 %
-C             3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-Python        2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Makefile      1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+HTML         42 mins               █████████▓░░░░░░░░░░░░░░░   38.90 %
+OpenSCAD     29 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.28 %
+Other        11 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+Python       9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+CSS          4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
 ```
 
 <!--END_SECTION:waka-->
